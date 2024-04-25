@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Nemat's github stats](https://github-readme-stats.vercel.app/api?username=nematgh&show_icons=true&theme=solarized-dark)
+
+- 📫 How to reach me: `n.gholinezhad@aut.ac.ir` or `gholinezhad1997@gmail.com`
