@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Nemat's github stats](https://github-readme-stats.vercel.app/api?username=nematgh&show_icons=true&theme=solarized-dark)
+![Nemat's github stats](https://github-readme-stats.vercel.app/api?username=nemat-gholinejad&show_icons=true&theme=solarized-dark)
 
 - 📫 How to reach me: `n.gholinezhad@aut.ac.ir` or `gholinezhad1997@gmail.com`
